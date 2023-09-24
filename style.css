@@ -1,0 +1,33 @@
+body {
+  background-color: #ffffffff;
+  font-family: "DM Sans", sans-serif;
+}
+footer {
+  background-color: indigo;
+  font-family: "Organika Serif";
+  font-size: 25px;
+  color: #ffffff;
+}
+nav {
+  background-color: indigo;
+}
+h2 {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+table thead {
+  background-color: #f9541aff; /* Ganti dengan warna yang Anda inginkan */
+  color: white; /* Warna teks pada header tabel */
+}
+button {
+  margin-top: 14px;
+}
+/* CSS HEX
+--pear: #BFCD13ff;
+--red-cmyk: #E3010Fff;
+--indigo: #4F0884ff;
+--vivid-sky-blue: #08C6E3ff;
+--aureolin: #FCE309ff;
+--giants-orange: #F9541Aff;
+--white: #FFFFFFff; 
+--lavender-web: #D7DBF6ff;*/
